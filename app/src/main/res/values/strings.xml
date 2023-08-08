@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ADOtest</string>
+
+    <!--Question-->
+    <string name="question_sample">This is a question.</string>
+    <string name="question_01">The country is everything.</string>
+    <string name="question_02">The country has everything.</string>
+    <string name="question_03">Everything is for the country.</string>
+    <string name="question_04">Whoever controls the present controls the past.</string>
+    <string name="question_05">Whoever controls the past controls the future.</string>
+
+    <!--Sec.Question-->
+    <string name="warning_text">Are you sure you want to do this?</string>
+
+    <string name="cheat_button">Cheat!</string>
+    <string name="show_answer_button">Show me</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+
+    <!--Toast-->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">FBI Open the Door!!</string>
+    <string name="judgment_toast">You are bad.</string>
+
+</resources>
